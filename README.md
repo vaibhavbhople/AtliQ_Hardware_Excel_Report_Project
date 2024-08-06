@@ -1,13 +1,18 @@
 # AtliQ_Hardware_Excel_Report_Project
 This Project contains Sales and Finance reports for AtliQ Hardware
 
+- **Project Overview:**
+
 ## Sales Report :
 
 - **Project objective:** 
+The Excel Report project for AtliQ Hardware aims to provide comprehensive sales and finance analytics to support strategic decision-making. AtliQ Hardware, a company specializing in hardware products such as PCs, mice, printers, and keyboards, sells through various channels, including retailers, direct stores, and distributors. The company operates both offline (brick-and-mortar) and online (e-commerce), serving a broad customer base that includes major stores like CROMA, FLIPKART, BEST BUY, and VIJAY SALES.
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+
+   **3.** Conduct a Additional Insights for sales in different divisions, top 10 proucts by net sales, top and bottom 5 products by quantity sold and new products introduced in latest year _[sales_market_report](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/Sales%20Market%20Report%20(with%20Insights).pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +25,9 @@ This Project contains Sales and Finance reports for AtliQ Hardware
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
