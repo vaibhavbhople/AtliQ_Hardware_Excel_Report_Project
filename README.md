@@ -14,6 +14,8 @@ The Excel Report project for AtliQ Hardware aims to provide comprehensive sales 
 
    **3.** Conduct a Additional Insights for sales in different divisions, top 10 proucts by net sales, top and bottom 5 products by quantity sold and new products introduced in latest year _[sales_market_report](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/Sales%20Market%20Report%20(with%20Insights).pdf)_
 
+   **4.** _[final_report](https://github.com/vaibhavbhople/AtliQ_Hardware_Excel_Report_Project/blob/main/Final%20Report.pdf)_  contain the overall report combination of sales and finance report.
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
